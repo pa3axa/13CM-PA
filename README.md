@@ -19,8 +19,8 @@ to difficult to achieve good results.
 ## PCB
 
 If there is any interest to buy the PCB for this project i will make them available
-via hosting via an online PCB maker that can handle payment, handling shipment.
-As this is rather time consuming and its my hobby not a business, so drop me an email
+via hosting via an online PCB maker that can handle payment and shipment. As this is
+rather time consuming and its my hobby not a business, so drop me an email
 if want to order boards 
 
 
