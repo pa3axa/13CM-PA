@@ -1,7 +1,7 @@
 # 13CM-PA
 
 This repository hold all public information to construct and build this 13CM-PA
-It was develope to operate in conjuction with an ADLM-Pluto or similar SDR devices.
+It was developed to operate in conjuction with an ADLM-Pluto or similar SDR devices.
 for Radio Amateur communications on QO100.
 
 Power Output is around 20W with about 50 db gain.
