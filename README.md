@@ -1,8 +1,11 @@
 # 13CM-PA
 
+As there is still is great interrest i decided to put everything online that is
+needed to build your own.
+
 This repository hold all public information to construct and build this 13CM-PA
 It was developed to operate in conjuction with an ADLM-Pluto or similar SDR devices.
-for Radio Amateur communications on QO100.
+for Radio Amateur communications on the Oscor QO100 satellite.
 
 Power Output is around 20W with about 50 db gain.
 
@@ -10,7 +13,15 @@ Power Output is around 20W with about 50 db gain.
 
 this is straight forward if you have experience in RF circuit and soldering SMD devices.
 Over 20 units have been made. The main part MW7IC2725N is still widely avialable on 
-Aliexpress and Ebay but not always reliable your luck may vary. 
+Aliexpress and Ebay but not always reliable your luck may vary.
+
+The used SAW filters went EOL beginning 2020. But might be still avialable.
+As a replacement part the TST TA0223A might work but is not tested by me.
+
+Feedback is welcome.
+
+A more detailed building description is made by Hans PE1CKK and can be found
+on line at http://www.hybridpretender.nl/PA%20assembly%20all.pdf.
 
 One last warning this is not an easy DIY project but with the right skills its not
 to difficult to achieve good results.
@@ -18,9 +29,8 @@ to difficult to achieve good results.
 
 ## PCB
 
-If there is any interest to buy the PCB for this project i will make them available
-via hosting with online PCB manufacturer that can handle payment and shipment.
-As this is rather time consuming and its my hobby not a business, so drop me an email
-if want to order boards. 
+If you want to order a pcb please checkout https://dirtypcbs.com/store/designer/browse/8234
+Check the board thickness when ordering the board, this needs to be set to 1.0 mm.
+The board finish i used was ENIG but HASL should work.
 
 73 | Rens PA3AXA
