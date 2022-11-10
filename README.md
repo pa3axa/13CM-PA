@@ -12,7 +12,7 @@ Power Output is around 20W with about 50 db gain
 ## Construction
 
 this is straight forward if you have experience in RF circuit and soldering SMD devices.   
-Over 20 units have been made. The main part MW7IC2725N is still widely avialable on    
+Over 20 units have been made. The main part MW7IC2725N is still widely available on    
 Aliexpress and Ebay but not always reliable your luck may vary.   
 
 The used SAW filters went EOL beginning 2020. But might be still avialable.   
